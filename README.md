@@ -1,4 +1,5 @@
 # libft
+november 2021,
 
 **Welcome to the Libft project! 🚀** Dive into the world of C programming by crafting your very own library. In this project, you'll create a collection of powerful functions that will serve as the cornerstone of your coding journey. By **implementing** and **mastering** these **essential functions**, you'll lay a solid foundation for future coding tasks and school assignments. Libft empowers you with the knowledge and control to understand the inner workings of standard functions, enhancing your **coding skills** and **confidence** 😎. This project isn't just about creating a library; it's about becoming a more skilled and versatile programmer. Let's embark on this coding adventure together! 🛠️🌟
 
